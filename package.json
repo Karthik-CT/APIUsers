@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "15.14.0"
+    "node": "18.20.3"
   }
 }
