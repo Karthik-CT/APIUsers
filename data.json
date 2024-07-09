@@ -1,11 +1,35 @@
 {
   "users": [
-    { "email": "user1@example.com", "coupon_code": "DYNCOUPON2024A1" },
-    { "email": "user2@example.com", "coupon_code": "DYNCOUPON2024B2" },
-    { "email": "user3@example.com", "coupon_code": "DYNCOUPON2024C3" },
-    { "email": "user4@example.com", "coupon_code": "DYNCOUPON2024D4" },
-    { "email": "user5@example.com", "coupon_code": "DYNCOUPON2024E5" },
-    { "email": "karthik.iyer@clevertap.com", "coupon_code": "karthikCoupon" },
-    { "email": "rakeshkamati616@gmail.com", "coupon_code": "rakeshCoupon" }
+    {
+      "email": "user1@example.com",
+      "coupon_code": "DYNCOUPON2024A1"
+    },
+    {
+      "email": "user2@example.com",
+      "coupon_code": "DYNCOUPON2024B2"
+    },
+    {
+      "email": "user3@example.com",
+      "coupon_code": "DYNCOUPON2024C3"
+    },
+    {
+      "email": "user4@example.com",
+      "coupon_code": "DYNCOUPON2024D4"
+    },
+    {
+      "email": "user5@example.com",
+      "coupon_code": "DYNCOUPON2024E5",
+      "user_id": "user5"
+    },
+    {
+      "email": "karthik.iyer@clevertap.com",
+      "coupon_code": "karthikCoupon"
+    },
+    {
+      "email": "rakeshkamati616@gmail.com",
+      "coupon_code": "rakeshCoupon"
+    },
+    {},
+    {}
   ]
 }
